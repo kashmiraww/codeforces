@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 7 |
+| 15 | 7 |
 
 ---
 
@@ -15,8 +15,8 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (3)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (7)
-- [math](#math) (3)
+- [implementation](#implementation) (8)
+- [math](#math) (4)
 - [number theory](#number-theory) (1)
 - [strings](#strings) (2)
 
@@ -55,6 +55,7 @@
 | 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/705/A%20-%20Hulk/solution.cpp) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
+| 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/1814/A%20-%20Coins/solution.cpp) |
 
 ### math
 
@@ -62,6 +63,7 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
+| 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/1814/A%20-%20Coins/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 
 ### number theory
