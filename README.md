@@ -6,28 +6,76 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 14 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [implementation](#implementation) (1)
-- [math](#math) (1)
+- [*special](#special) (1)
+- [brute force](#brute-force) (3)
+- [greedy](#greedy) (3)
+- [implementation](#implementation) (7)
+- [math](#math) (3)
+- [number theory](#number-theory) (1)
+- [strings](#strings) (2)
 
 ---
+
+### *special
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+| 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+| 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.cpp) |
+| 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/1814/A%20-%20Coins/solution.cpp) |
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+| 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
+| 427A | [Police Recruits](https://codeforces.com/contest/427/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/427/A%20-%20Police%20Recruits/solution.cpp) |
+| 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.cpp) |
+| 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/705/A%20-%20Hulk/solution.cpp) |
+| 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
+| 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/1814/A%20-%20Coins/solution.cpp) |
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
+| 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
+| 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
 
 ---
 
