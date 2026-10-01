@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 8 |
+| 17 | 8 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [games](#games) (1)
 - [greedy](#greedy) (3)
 - [implementation](#implementation) (8)
-- [math](#math) (5)
+- [math](#math) (6)
 - [number theory](#number-theory) (2)
 - [strings](#strings) (2)
 
@@ -71,6 +71,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/1814/A%20-%20Coins/solution.cpp) |
+| 1866A | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/1866/A%20-%20Ambitious%20Kid/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 
