@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 24 | 11 |
+| 25 | 11 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [constructive algorithms](#constructive-algorithms) (2)
 - [games](#games) (2)
 - [greedy](#greedy) (6)
-- [implementation](#implementation) (11)
+- [implementation](#implementation) (12)
 - [math](#math) (11)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (1)
@@ -78,6 +78,7 @@
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.cpp) |
 | 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/1814/A%20-%20Coins/solution.cpp) |
+| 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/1829/B%20-%20Blank%20Space/solution.cpp) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/kashmiraww/cp-31-sheet/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 
